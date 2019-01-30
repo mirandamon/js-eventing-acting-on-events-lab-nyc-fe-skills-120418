@@ -21,13 +21,11 @@ const moveDodgerHelper = (event) => {
   // going to figure out do we moveDodgerLeft or moveDodgerRight
   if () {
     moveDodgerLeft()
-  } else {
-    // moveDodgerRight()
   }
 }
 
 
 // 3 - add the event listener
-document.addEventListener('keydown', )
+document.addEventListener('keydown', moveDodgerHelper)
 
 // if (left arrow is pressed)
