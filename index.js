@@ -13,6 +13,7 @@ const moveDodgerLeft = () => {
 }
 
 const moveDodgerHelper = (event) => {
+  // going to figure out do we moveDodgerLeft or moveDodgerRight
   
 }
 
