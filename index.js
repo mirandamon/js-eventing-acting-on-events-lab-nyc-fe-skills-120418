@@ -11,6 +11,7 @@ const moveDodgerLeft = () => {
   // which means we need some css changes
   const currentLeft = dodger.style.left // '180px'
   currentLeft.replace('px', '')
+  console.log(currentLeft)
   
 }
 
