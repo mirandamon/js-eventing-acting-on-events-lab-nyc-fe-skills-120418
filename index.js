@@ -24,7 +24,9 @@ const moveDodgerHelper = (event) => {
   // going to figure out do we moveDodgerLeft or moveDodgerRight
   if (event.keyCode === 37) {
     moveDodgerLeft()
-  } if (event.keyCode === )
+  } if (event.keyCode === 39) {
+    moveDodgerRight()
+  }
 }
 
 
