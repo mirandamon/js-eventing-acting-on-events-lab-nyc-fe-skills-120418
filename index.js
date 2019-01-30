@@ -12,6 +12,7 @@ const moveDodgerLeft = () => {
   console.log(dodger.style.left)
 }
 
-
+// 3 - add the event listener
+document.addEventListener('keydown', )
 
 // if (left arrow is pressed)
