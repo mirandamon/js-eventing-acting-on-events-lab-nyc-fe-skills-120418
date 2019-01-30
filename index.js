@@ -19,7 +19,7 @@ const moveDodgerRight = () => {
 
 const moveDodgerHelper = (event) => {
   // going to figure out do we moveDodgerLeft or moveDodgerRight
-  if () {
+  if (event.keyCode) {
     moveDodgerLeft()
   }
 }
